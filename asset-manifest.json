@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KhalidMovieReact/static/css/main.c0d7a819.css",
+    "main.js": "/KhalidMovieReact/static/js/main.a2ecb1b0.js",
+    "static/js/787.ab059028.chunk.js": "/KhalidMovieReact/static/js/787.ab059028.chunk.js",
+    "static/media/fa-solid-900.ttf": "/KhalidMovieReact/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/KhalidMovieReact/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/KhalidMovieReact/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/KhalidMovieReact/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/profile.png": "/KhalidMovieReact/static/media/profile.39582ac60478da2193e8.png",
+    "static/media/fa-regular-400.ttf": "/KhalidMovieReact/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/KhalidMovieReact/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/logo4.png": "/KhalidMovieReact/static/media/logo4.df798ceb9dfee2fcdc01.png",
+    "static/media/fa-v4compatibility.ttf": "/KhalidMovieReact/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/KhalidMovieReact/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/KhalidMovieReact/index.html",
+    "main.c0d7a819.css.map": "/KhalidMovieReact/static/css/main.c0d7a819.css.map",
+    "main.a2ecb1b0.js.map": "/KhalidMovieReact/static/js/main.a2ecb1b0.js.map",
+    "787.ab059028.chunk.js.map": "/KhalidMovieReact/static/js/787.ab059028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d7a819.css",
+    "static/js/main.a2ecb1b0.js"
+  ]
+}
